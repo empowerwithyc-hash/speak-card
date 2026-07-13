@@ -1,0 +1,16 @@
+{
+  "name": "光之战士 · 领袖开口卡",
+  "short_name": "光之战士",
+  "description": "Light Warriors 领袖开口卡 — 使命 · 邀约 · 健康分享 · 心法",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#1C1917",
+  "theme_color": "#1C1917",
+  "lang": "zh-CN",
+  "icons": [
+    { "src": "./icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any maskable" },
+    { "src": "./icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any maskable" }
+  ]
+}
