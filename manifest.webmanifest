@@ -1,0 +1,16 @@
+{
+  "name": "开口就是影响力 · 柳婉琴表达速记",
+  "short_name": "开口即影响力",
+  "description": "柳婉琴日常表达实战速记卡 — 抓心·共情·给价值",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#1C1917",
+  "theme_color": "#1C1917",
+  "lang": "zh-CN",
+  "icons": [
+    { "src": "./icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any maskable" },
+    { "src": "./icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any maskable" }
+  ]
+}
