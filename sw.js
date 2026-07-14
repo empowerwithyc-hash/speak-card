@@ -1,5 +1,5 @@
 // unique cache name — bump on every future update
-const CACHE = 'speak-card-v2';
+const CACHE = 'speak-card-v3';
 const ASSETS = [
   './',
   './index.html',
